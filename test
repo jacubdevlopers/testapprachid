@@ -1,0 +1,37 @@
+{
+
+    "ads": 
+      {
+        "Bannerapplovine" : "a67b5472e423281d",
+        "Interapplovine": "5366ce769df36ce9",
+        "max_native_small": "cd72f8038d6cec93",
+        "max_native_normal": "cd72f8038d6cec93",
+      	"rewordapplovine": "638f01689419a854",
+        "PromotedrImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "appfutur_Url" : "https://play.google.com/store/apps/details?id=com.blu.drawrace&hl=en_AU&gl=US&pli=1",
+        "PromotedrUrl" : "https://play.google.com/store/apps/details?id=com.blu.drawrace&hl=en_AU&gl=US&pli=1"
+      },
+    "moreapp": [
+      {
+        "name": "Pro League Soccer",
+        "image": "https://play-lh.googleusercontent.com/H5-3R_RxnB6J8y-SPsR38sa0aS06pX48obGw6H2MVw5qxsbz62I4w9KIZxqanfp5_vT3",
+		"AppUrl": "https://play.google.com/store/apps/details?id=com.rasugames.pls"
+      },
+      {
+        "name": "Scary Toys Funtime: Chapter 3",
+        "image": "https://play-lh.googleusercontent.com/b0jhCDwOzVuiJCvTfAEh6VvXc_MYmKaBtpnVgMGuzSr8956P5bqT0CCl_e2f9Q7uoA=w240-h480-rw",
+		"AppUrl": "https://play.google.com/store/apps/details?id=com.Fahidgamesscarytoystuntimechapter3.gamepoppyplaytimenewfuntime"
+      },
+      {
+        "name": "Super Coach - parking Driving",
+        "image": "https://play-lh.googleusercontent.com/TO178UgoFeS8JnMJfEC3Jxt8kLMbUTircOwQ_fr-O432EYNJsXAbsk3oZCyd4PC59Q=w240-h480-rw",
+		"AppUrl": "https://play.google.com/store/apps/details?id=com.supercoachparkingdriving.moderntransportbus3dgame3d"
+      },
+      {
+        "name": "Merge Poppy",
+        "image": "https://play-lh.googleusercontent.com/1tSX5g_9Zvs0whzieaqdFrnBtEJfrBfWtQzanWe6ZOxfABTacUClNG9rHFapAX-3pg=w240-h480-rw",
+		"AppUrl": "https://play.google.com/store/apps/details?id=com.hotpotgames.mergepoppy.global"
+      }
+    ]
+
+}
